@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Brad Lindsay.
+- 👀 I’m interested in sports and video games.
+- 🌱 I’m currently learning full-stack development.
+- 💞️ I’m looking to collaborate on anything that seems interesting and provides a challenge.
+- 📫 How to reach me: emailto: dont.judge712@gmail.com
